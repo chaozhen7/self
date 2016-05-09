@@ -69,7 +69,7 @@ pagination_dir: page
 # Extensions 主题
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: yilia  #yelee #yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
